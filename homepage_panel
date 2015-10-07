@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+h1 {color:black;font-family:Source Sans Pro;font-size:55px;line-height:55px;margin:0}
+h2 {color:#E9F5F7;font-family:lato;font-weight:bold;font-size:13px;line-height:23px;letter-spacing:0.1em;padding-left:0px}
+p {color:black;font-family:Lato;font-size:20x;line-height:23px;padding-left:0px}
+
+  </style>
+</head>
+<body>
+<h2><mark style="color:#000000;background-color:#EFFF8A;padding-left:8px;padding-right:8px;padding-top:2px;padding-bottom:2px;">HOW WE DO IT</mark></h2>
+<h1>We Match Insights with Innovation, expertise and resources. </h1>
+<p>...and apply them to the most promising opportunities. We drive change from within, offering up unvarnished feedback and astute strategies to maximize available resources: the client's, their vendors' and our own. </p>
+</body>
+</html>
