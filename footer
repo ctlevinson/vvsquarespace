@@ -1,0 +1,36 @@
+<html>
+<head>
+<style>
+h1 {color:black;font-family:Source Sans Pro;font-size:55px;line-height:55px;margin:0}
+h2 {color:#E9F5F7;font-family:lato;font-weight:bold;font-size:13px;line-height:23px;letter-spacing:0.1em;padding-left:0px}
+p {color:black;font-family:Lato;font-size:20x;line-height:23px;padding-left:0px}
+  .rights {color:#C4C4C4;font-family:lato;font-weight:bold;font-size:13px;line-height:13px;letter-spacing:0.1em;padding-left:0px}
+  ul{list-style:none;columns:1;-webkit-columns:8; -moz-columns: 1;color:#C4C4C4;font-family:lato;font-weight:bold;font-size:13px;line-height:13px;letter-spacing:0.1em;padding-left:0px;padding-bottom:30px;}
+  .line {width:50px;size:3px;padding-bottom:30px;}
+  </style>
+</head>
+<body>
+<div class="footerlinks">
+  <ul>
+    <li>&nbsp;</li>
+    <li>&nbsp;</li>
+    <li>Home</li>
+    <li>Our Team</li>
+    <li>Our Work</li>
+    <li>Get In Touch</li>
+    <li>&nbsp;</li>
+    <li>&nbsp;</li>
+  </ul>
+  </div>
+<center><div class="line">
+ <hr></div>
+ </center>
+
+<div class="rights">
+  <center>All rights reserved &copy; Vaudeville Ventures 2015
+  </center></div>
+  
+</body>
+</html>
+
+<html>
